@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aeqmod",
+  "name": "Aeq Mod",
+  "description": "Aequitas' mod.",
+  "version": "1.0",
+  "mcversion": "1.20.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Frozenman"],
+  "credits": "Some features were inspired by the Avomod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
